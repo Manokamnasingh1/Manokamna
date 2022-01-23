@@ -1,1 +1,1 @@
-web: gunicorn razorpayapp.wsgi
+web: gunicorn mysite.wsgi
