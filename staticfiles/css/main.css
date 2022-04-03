@@ -9,6 +9,7 @@ body{
 #profile-pic{
 	width:150px;
 	height: 150px;
+	border-radius: 50%;
 	margin-left: auto;
   	margin-right: auto;
 }
